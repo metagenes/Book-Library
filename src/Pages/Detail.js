@@ -117,7 +117,7 @@ const Detail = props => {
         <Button
           style={{ marginLeft: 1040, top: "-230px" }}
           variant="contained"
-          color="default"
+          color="default"  onClick={()=>{ alert('Book Removed')}}
         >
           Delete
         </Button>
