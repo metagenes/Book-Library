@@ -2,7 +2,7 @@
 
 This is a simple book library manager WebPage displaying list of book on Carousel and Cards.
 
-The entire application is contained within the `index.js` file.
+
 
 ## Dependencies
 1. React
