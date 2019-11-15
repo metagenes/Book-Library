@@ -8,6 +8,12 @@ This is a simple book library manager WebPage displaying list of book on Carouse
 1. React
 2. 3d-react-carousal
 3. Material-ui
+4. Axios
+5. react-redux
+6. redux
+7. redux-promise-middleware
+8. redux-logger
+
 
 ## Install
 
