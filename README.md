@@ -5,7 +5,7 @@ This is a simple book library manager WebPage displaying list of book on Carouse
 
 
 ## Dependencies
-1. React
+1. ReactJS
 2. 3d-react-carousal
 3. Material-ui
 4. Axios
